@@ -6,6 +6,5 @@
 ![](https://raw.githubusercontent.com/ZYR1251/photo/master/kafka+storm01.png)
 ![](https://raw.githubusercontent.com/ZYR1251/photo/master/kafka+storm02.png)
 ![](https://raw.githubusercontent.com/ZYR1251/photo/master/kafka+storm1.png)
-![](https://raw.githubusercontent.com/ZYR1251/photo/master/jpa1.png)
-![](https://raw.githubusercontent.com/ZYR1251/photo/master/jpa2.png)
+
 
