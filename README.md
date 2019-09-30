@@ -19,3 +19,5 @@
 ![](https://github.com/ZYR1251/photo/raw/master/hbase3.png)
 ![](https://github.com/ZYR1251/photo/raw/master/hbase4.png)
 ![](https://github.com/ZYR1251/photo/raw/master/hbase5.png)
+![](https://github.com/ZYR1251/photo/raw/master/hbaseapi1.png)
+![](https://github.com/ZYR1251/photo/raw/master/hbaseapi2.png)
